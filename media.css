@@ -1,0 +1,24 @@
+.aside2 img {
+    border: solid rgb(71, 71, 71);
+    background-color: rgb(244, 247, 246);
+    width: auto;
+    height: 500px;
+}
+.emboltura {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    background-color: black;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(161, 161, 161);
+    width: auto;
+    height: auto;
+    align-items: center;
+}
+.imagenes{
+    display: flex;
+    justify-content: space-around;
+}
